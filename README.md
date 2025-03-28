@@ -53,6 +53,3 @@ The AI Fake News Detector is a web application that analyzes news articles and p
 ## Contribution
 Feel free to submit issues or contribute to the project by forking the repository and making a pull request.
 
-## License
-This project is licensed under the MIT License.
-
